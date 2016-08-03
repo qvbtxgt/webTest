@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<table class="table">
+	<tr><th>学号</th><th>姓名</th><th>性别</th><th>操作</th></tr>
+	<notempty name="student_info">
+		<foreach name="student_info" item="v">
+			<tr align="center">
+				<td>{$v.stu_number}</td>
+				<td>{$v.stu_name}</td>
+				<td>{$v.stu_gender}</td>
+				<td><div align="center"><a href="__CONTROLLER__/update/stu_id/{$v.stu_id}">编辑</a>&nbsp; &nbsp;<a href="__CONTROLLER__/delete/stu_id/{$v.stu_id}/class_id/{$v.class_id}"  onclick="javascript:if(confirm('确定要删除此信息吗？')){return true;}return false;">删除</a></div></td>
+			</tr>
+		</foreach>
+		<else/>
+		<tr align="center"><td colspan="5">查询的结果不存在！</td></tr>
+	</notempty>
+</table>
+	
+	
+</frameset>
+</body>
+</html>

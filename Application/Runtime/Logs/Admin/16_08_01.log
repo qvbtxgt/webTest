@@ -1,0 +1,695 @@
+[ 2016-08-01T09:27:38+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=NBM
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T09:38:09+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=NBM
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-01T09:57:41+08:00 ] ::1 /test/index.php/Admin/Index/testlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-01T09:57:41+08:00 ] ::1 /test/index.php/Admin/Index/image?r=11065
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T09:58:49+08:00 ] ::1 /test/index.php/Admin/Index/image?r=11065
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-01T10:07:49+08:00 ] ::1 /test/index.php/Admin/Index/testlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-01T10:07:49+08:00 ] ::1 /test/index.php/Admin/Index/image?r=11052
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-01T10:08:58+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=NBM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T10:09:13+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=NB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-01T10:09:13+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=N
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T10:09:16+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=M
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T10:09:16+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=MD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T10:09:16+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=MDC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T10:09:17+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=MDCC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T10:09:53+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=MDC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-01T10:10:43+08:00 ] ::1 /test/index.php/Admin/Index/testlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T10:10:43+08:00 ] ::1 /test/index.php/Admin/Index/image?r=12170
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T10:10:46+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=MDC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-01T10:12:02+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=DJGR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T10:12:21+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=DJG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T10:17:42+08:00 ] ::1 /test/index.php/Admin/Index/testlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-01T10:17:42+08:00 ] ::1 /test/index.php/Admin/Index/image?r=26136
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T10:18:26+08:00 ] ::1 /test/index.php/Admin/Index/testlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T10:18:27+08:00 ] ::1 /test/index.php/Admin/Index/image?r=4694
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T16:33:18+08:00 ] ::1 /test/index.php/Admin/Index/regsiter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:regsiter
+
+[ 2016-08-01T16:33:40+08:00 ] ::1 /test/index.php/Admin/Index/regesiter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T16:33:40+08:00 ] ::1 /test/index.php/Admin/Index/image?r=26396
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-01T16:34:28+08:00 ] ::1 /test/index.php/Admin/Index/regesiter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T16:34:28+08:00 ] ::1 /test/index.php/Admin/Index/image?r=9466
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T16:46:04+08:00 ] ::1 /test/index.php/Admin/Index/regesiter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T16:46:04+08:00 ] ::1 /test/index.php/Admin/Index/image?r=28936
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-01T16:46:24+08:00 ] ::1 /test/index.php/Admin/Index/image?r=0.14517954185367787
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T17:16:07+08:00 ] ::1 /test/index.php/Admin/Index/regesiter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-01T17:16:07+08:00 ] ::1 /test/index.php/Admin/Index/image?r=27271
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T17:16:10+08:00 ] ::1 /test/index.php/Admin/Index/regesiter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T17:16:10+08:00 ] ::1 /test/index.php/Admin/Index/image?r=6621
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-01T17:16:41+08:00 ] ::1 /test/index.php/Admin/Index/regesiter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T17:16:41+08:00 ] ::1 /test/index.php/Admin/Index/image?r=8227
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T17:17:44+08:00 ] ::1 /test/index.php/Admin/Index/regesiter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T17:17:44+08:00 ] ::1 /test/index.php/Admin/Index/image?r=11993
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T17:19:14+08:00 ] ::1 /test/index.php/Admin/Index/regesiter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-01T17:19:14+08:00 ] ::1 /test/index.php/Admin/Index/image?r=4991
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-01T17:19:32+08:00 ] ::1 /test/index.php/Admin/Index/regesiter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-01T17:19:32+08:00 ] ::1 /test/index.php/Admin/Index/image?r=6037
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-01T17:20:33+08:00 ] ::1 /test/index.php/Admin/Index/regesiter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T17:20:33+08:00 ] ::1 /test/index.php/Admin/Index/image?r=24731
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-01T17:21:05+08:00 ] ::1 /test/index.php/Admin/Index/regesiter.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-01T17:21:05+08:00 ] ::1 /test/index.php/Admin/Index/image?r=20497
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

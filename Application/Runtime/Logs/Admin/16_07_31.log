@@ -1,0 +1,63 @@
+[ 2016-07-31T22:08:17+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=TCWE
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-31T22:08:31+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=TCWE
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-31T22:09:40+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=TCWE
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-31T22:11:47+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=X
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-31T22:11:48+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=XV
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-31T22:11:48+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=XVE
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-31T22:11:49+08:00 ] ::1 /test/index.php/Admin/Index/check?check=function%20(a){%22use%20strict%22;var%20b,c,d,e=this[0];{if(arguments.length)return%20d=r.isFunction(a),this.each(function(c){var%20e;1===this.nodeType&&(e=d?a.call(this,c,r(this).val()):a,null==e?e=%22%22:%22number%22==typeof%20e?e+=%22%22:r.isArray(e)&&(e=r.map(e,function(a){return%20null==a?%22%22:a+%22%22})),b=r.valHooks[this.type]||r.valHooks[this.nodeName.toLowerCase()],b&&%22set%22in%20b&&void%200!==b.set(this,e,%22value%22)||(this.value=e))});if(e)return%20b=r.valHooks[e.type]||r.valHooks[e.nodeName.toLowerCase()],b&&%22get%22in%20b&&void%200!==(c=b.get(e,%22value%22))?c:(c=e.value,%22string%22==typeof%20c?c.replace(nb,%22%22):null==c?%22%22:c)}}&check=XVEA
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\test\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

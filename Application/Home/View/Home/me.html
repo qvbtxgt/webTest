@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<table class="table">
+			<tr>
+				<th>帐号：</th>
+				<td><input type="text" class="form-text" name="stu_number"
+					required></td>
+			</tr>
+			<tr>
+				<th>昵称：</th>
+				<td><input type="text" class="form-text" name="stu_number"
+					required></td>
+			</tr>
+			<tr>
+				<th>性别：</th>
+				<td><input type="text" class="form-text" name="stu_name"
+					required>
+			</tr>
+			<tr>
+				<th>社团或组织名称：</th>
+				<td><select name="stu_gender">
+						<option value="男">男</option>
+						<option value="女">女</option>
+				</select></td>
+			</tr>
+			<tr>
+				<th>所在地点：</th>
+				<td><select name="stu_gender">
+						<option value="男">男</option>
+						<option value="女">女</option>
+				</select></td>
+			</tr>
+			<tr>
+				<th>邮箱：</th>
+				<td><select name="class_id">
+						<foreach name="major_info" item="v"> <foreach
+							name="v.Class" item="vv">
+						<option value="{$vv.class_id}"<eq name="class_id"
+								value="$vv.class_id">selected</eq>>{$v.major_name}{$vv.class_name}
+						</option>
+						</foreach> </foreach>
+				</select></td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center"><input type="submit"
+					value="确认输入" class="form-btn"> <input type="reset"
+					value="重新填写" class="form-btn"></td>
+			</tr>
+		</table>
+</body>
+</html>

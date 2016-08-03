@@ -1,0 +1,20 @@
+[ 2016-07-20T10:51:12+08:00 ] ::1 /test/index.php/Home/Home/index
+ERR: SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+
+[ 2016-07-20T10:51:58+08:00 ] ::1 /test/index.php/Home/Home/index
+ERR: SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+
+[ 2016-07-20T10:52:02+08:00 ] ::1 /test/index.php/Home/Home/login.html
+ERR: 闈炴硶鎿嶄綔:login
+
+[ 2016-07-20T10:52:11+08:00 ] ::1 /test/index.php/Home/Home/login
+ERR: 闈炴硶鎿嶄綔:login
+
+[ 2016-07-20T10:53:37+08:00 ] ::1 /test/index.php/Home/Home/login
+ERR: 闈炴硶鎿嶄綔:login
+
+[ 2016-07-20T10:54:13+08:00 ] ::1 /test/index.php/Home/Home/login
+ERR: 闈炴硶鎿嶄綔:login
+

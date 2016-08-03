@@ -1,0 +1,30 @@
+[ 2016-07-25T15:50:20+08:00 ] ::1 /test/index.php/Admin/Index/image.php?r=29776
+ERR: 非法操作:image.php
+
+[ 2016-07-25T15:52:14+08:00 ] ::1 /test/index.php/Admin/Index/image.php?r=5705
+ERR: 非法操作:image.php
+
+[ 2016-07-25T15:57:20+08:00 ] ::1 /test/index.php/Admin/Index/image.php?r=27470
+ERR: 非法操作:image.php
+
+[ 2016-07-25T15:57:26+08:00 ] ::1 /test/index.php/Admin/Index/image.php?r=0.32454016385791074
+ERR: 非法操作:image.php
+
+[ 2016-07-25T15:57:27+08:00 ] ::1 /test/index.php/Admin/Index/image.php?r=0.886849685818139
+ERR: 非法操作:image.php
+
+[ 2016-07-25T15:57:28+08:00 ] ::1 /test/index.php/Admin/Index/image.php?r=0.5957761081779123
+ERR: 非法操作:image.php
+
+[ 2016-07-25T15:57:29+08:00 ] ::1 /test/index.php/Admin/Index/image.php?r=0.5878398400879215
+ERR: 非法操作:image.php
+
+[ 2016-07-25T15:59:23+08:00 ] ::1 /test/index.php/Admin/Index/image.php?r=9327
+ERR: 非法操作:image.php
+
+[ 2016-07-25T16:03:10+08:00 ] ::1 /test/index.php/Admin/Index/image.php?r=0.7581982736533396
+ERR: 非法操作:image.php
+
+[ 2016-07-25T16:22:20+08:00 ] ::1 /test/index.php/Admin/Index/check?check=N88S
+ERR: 非法操作:check
+

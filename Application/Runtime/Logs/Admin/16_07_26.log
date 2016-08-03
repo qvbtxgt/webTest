@@ -1,0 +1,16 @@
+[ 2016-07-26T16:42:59+08:00 ] ::1 /test/index.php/Admin/Student/add
+ERR: 1062:Duplicate entry '1501001002' for key 'stu_number'
+ [ SQL语句 ] : INSERT INTO `stu_student` (`stu_number`,`stu_name`,`stu_gender`,`class_id`) VALUES ('1501001002','13','男','1')
+
+[ 2016-07-26T17:22:17+08:00 ] ::1 /test/Admin/Index/Student/showMajor
+ERR: 非法操作:Student
+
+[ 2016-07-26T17:26:29+08:00 ] ::1 /test/Admin/Index/Student/showMajor
+ERR: 非法操作:Student
+
+[ 2016-07-26T17:26:32+08:00 ] ::1 /test/Admin/Index/Student/showMajor
+ERR: 非法操作:Student
+
+[ 2016-07-26T17:26:33+08:00 ] ::1 /test/Admin/Index/Student/showMajor
+ERR: 非法操作:Student
+

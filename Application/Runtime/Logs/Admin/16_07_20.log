@@ -1,0 +1,15 @@
+[ 2016-07-20T10:54:35+08:00 ] ::1 /test/index.php/Admin/Student/showMajor
+ERR: SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+
+[ 2016-07-20T11:01:30+08:00 ] ::1 /test/index.php/Admin/Index/logout
+ERR: 闈炴硶鎿嶄綔:logout
+
+[ 2016-07-20T22:00:41+08:00 ] ::1 /test/index.php/Admin/Student/update/stu_id/8
+ERR: SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+
+[ 2016-07-20T22:00:43+08:00 ] ::1 /test/index.php/Admin/Student/update/stu_id/8
+ERR: SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+

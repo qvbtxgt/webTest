@@ -1,0 +1,20 @@
+[ 2016-06-20T17:06:49+08:00 ] ::1 /test/index.php/Home/Index/hello
+ERR: 1146:Table 'db.stu_contacts' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `stu_contacts`
+
+[ 2016-06-20T17:08:02+08:00 ] ::1 /test/index.php/Home/Index/hello
+ERR: 1146:Table 'db.stu_contacts' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `stu_contacts`
+
+[ 2016-06-20T17:08:04+08:00 ] ::1 /test/index.php/Home/Index/hello
+ERR: 1146:Table 'db.stu_contacts' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `stu_contacts`
+
+[ 2016-06-20T17:08:13+08:00 ] ::1 /test/index.php/Home/Index/hello
+ERR: 1146:Table 'db.stu_contacts' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `stu_contacts`
+
+[ 2016-06-20T17:26:35+08:00 ] ::1 /test/index.php/Home/Index/hello
+ERR: 1146:Table 'db.stu_contacts' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `stu_contacts`
+

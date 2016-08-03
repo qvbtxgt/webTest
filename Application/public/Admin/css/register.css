@@ -1,0 +1,68 @@
+	*{
+		font:14px 微软雅黑,宋体,arial;
+		
+	}
+	body{
+		background-color:#DDDDDD;/*浅灰色*/
+	}
+	.jump{
+		float:right;
+		width:120px;
+		font:30px 微软雅黑,宋体,arial;
+	}
+	.midd{
+		margin-left:200px;
+		margin-top:0px;
+		height:520px;
+		
+	}
+	.main{
+		margin:0 13%;
+		background-color:#ffffff;
+		box-shadow: 0 0 3px 0 #cbc9c9;
+		height:650px;
+		/*background-color:#d9ffff;*/
+	}
+	.header{
+		margin:0 13%;
+		background-color:#DDDDDD;
+		height:100px;
+	}
+	form{
+		padding:10px;
+		
+	}
+	.lab{
+		float:right;
+		padding-top:13px;
+	}
+	.input_txt{
+		width:250px;
+		padding:7px 5px;
+		font-size: 12px;
+		line-height: 16px;
+		border:1px solid #AAAAAA;/*灰色*/
+	}
+	.sex{
+			border:#fffff;
+			width:260px;
+			height:20px;
+			margin:10px 0px;
+		}
+	input.error{
+		border:1px solid #e86868;/*警告红色边框*/
+	}
+	label.error{
+		color:#e86868;/*警告红色字体*/
+	}
+	td{
+		height:1.5e;
+		padding:5px 0px;
+	}
+	.txt{
+		margin:0px;
+		height:35px;
+		width:260px;
+		background-color:white;
+		border:1px solid #AAAAAA;
+	}

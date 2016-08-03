@@ -1,0 +1,22 @@
+*{
+		font:14px/1.5 微软雅黑,宋体,arial;
+	}
+	div{
+		margin:10% auto;
+		width:50%;
+		height:50%;
+		background-color:#d9ffff;
+	}
+	form{
+		padding:10px;
+		
+	}
+	.lab{
+		float:right;
+	}
+	input{
+		width:200px;
+	}
+	td{
+		height:1.5e;
+	}

@@ -1,0 +1,7 @@
+[ 2016-06-21T12:07:32+08:00 ] ::1 /test/index.php/Admin/Student/showList/class_id/1
+ERR: 非法操作:showList
+
+[ 2016-06-21T15:21:06+08:00 ] ::1 /test/index.php/Admin/Index/login
+ERR: 1146:Table 'db.stu_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `stu_admin`
+

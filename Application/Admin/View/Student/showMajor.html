@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>学生课程</title>
+<style type="text/css">
+<//.table tr td{border:1px solid;}>
+</style>
+</head>
+<body>
+<include file="header"/>
+<h2 class="main-right-nav">院系专业 &gt; 专业列表</h2>
+<table class="table">
+	 <tr><th>专业</th><th>班级</th><th>操作</th></tr>
+	 <notempty name="info">
+		<foreach name="info" item="v">
+			<foreach name="v.Class" item="vv" key="k">
+				<tr align="center">
+				<if condition="($k eq 0)">
+					<//rowspan 属性规定单元格可横跨的行数，我是注释，“$v.Class|count”是获取每个专业对应的班级数量>
+					<td rowspan="{$v.Class|count}" class="table-major">{$v.major_name}</td>
+				</if>
+				<td width="40%"><a href="__MODULE__/Student/showList?class_id={$vv.class_id}">{$vv.class_name}</a></td>
+				<td><div align="center"><a href="__CONTROLLER__/showList?class_id={$vv.class_id}">查看</a>&nbsp; &nbsp;<a href="__CONTROLLER__/delete?student_id={$v.student_id}?class_id={$v.class_id}"  onclick="javascript:if(confirm('确定要删除此信息吗？')){return true;}return false;">删除</a></div></td>
+				</tr>
+			</foreach>
+		</foreach>
+		
+		<else/>
+		<tr><td colspan="3">查询的结果不存在！</td></tr>
+	</notempty>
+</table>
+
+<include file="footer"/>
+</body>
+</html>

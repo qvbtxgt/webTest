@@ -1,0 +1,23 @@
+<table>
+		<tr>
+			<th>专业</th>
+			<th>班级</th>
+			<th>操作</th>
+		</tr>
+		[notempty name='info']
+			[foreach name='info' item='v']
+				[foreach name='v.Class' item='vv' key='k']
+					<tr>
+						[if condition='($k eq 0)']
+						<td rowspan="{$v.Class|count}">{$v.major_name}</td>
+						[/if]
+						<td ><a href="__MODULE__/Student/show/class_id/{$vv.class_id}">{$vv.class_id}</a></td>
+						<td><div>编辑  删除</div></td>
+					</tr>
+				[/foreach]
+			[/foreach]
+		[else/]
+			<tr><td>查询的结果不存在。</td></tr>
+		[/notempty]
+			
+	</table> 

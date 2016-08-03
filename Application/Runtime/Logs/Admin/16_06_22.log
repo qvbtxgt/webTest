@@ -1,0 +1,71 @@
+[ 2016-06-22T11:40:38+08:00 ] ::1 /test/index.php/Admin/Student/css/style.css
+ERR: 非法操作:css
+
+[ 2016-06-22T11:40:40+08:00 ] ::1 /test/index.php/Admin/Student/css/style.css
+ERR: 非法操作:css
+
+[ 2016-06-22T11:40:56+08:00 ] ::1 /test/index.php/Admin/Studentcss/style.css
+ERR: 无法加载控制器:Studentcss
+
+[ 2016-06-22T11:40:57+08:00 ] ::1 /test/index.php/Admin/Studentcss/style.css
+ERR: 无法加载控制器:Studentcss
+
+[ 2016-06-22T11:44:14+08:00 ] ::1 /test/index.php/Admin/Student/ACSS_URLstyle.css
+ERR: 非法操作:ACSS_URLstyle.css
+
+[ 2016-06-22T11:44:15+08:00 ] ::1 /test/index.php/Admin/Student/ACSS_URLstyle.css
+ERR: 非法操作:ACSS_URLstyle.css
+
+[ 2016-06-22T11:48:13+08:00 ] ::1 /test/index.php/Admin/Major/showList
+ERR: 无法加载控制器:Major
+
+[ 2016-06-22T11:48:16+08:00 ] ::1 /test/index.php/Admin/Student/showList
+ERR: 非法操作:showList
+
+[ 2016-06-22T11:48:21+08:00 ] ::1 /test/index.php/Admin/Major/showList
+ERR: 无法加载控制器:Major
+
+[ 2016-06-22T16:54:04+08:00 ] ::1 /test/index.php/Admin/Student/update/student_id/
+ERR: 非法操作:update
+
+[ 2016-06-22T17:02:11+08:00 ] ::1 /test/index.php/Admin/Major/showList
+ERR: 无法加载控制器:Major
+
+[ 2016-06-22T17:02:16+08:00 ] ::1 /test/index.php/Admin/Major/showList
+ERR: 无法加载控制器:Major
+
+[ 2016-06-22T17:22:11+08:00 ] ::1 /test/index.php/Admin/Student/add/class_id/1
+ERR: 非法操作:add
+
+[ 2016-06-22T20:11:29+08:00 ] ::1 /test/index.php/Admin/Index/show
+ERR: 非法操作:show
+
+[ 2016-06-22T21:06:59+08:00 ] ::1 /test/index.php/Admin/showList/class_id=15.html
+ERR: 无法加载控制器:ShowList
+
+[ 2016-06-22T21:08:33+08:00 ] ::1 /test/index.php/Admin/Student/add/class_id/11
+ERR: 1062:Duplicate entry '1504001010' for key 'stu_number'
+ [ SQL语句 ] : INSERT INTO `stu_student` (`stu_number`,`stu_name`,`stu_gender`,`class_id`) VALUES ('1504001010','可可','女','15')
+
+[ 2016-06-22T21:09:04+08:00 ] ::1 /test/index.php/Admin/Student/add/class_id/11
+ERR: 1062:Duplicate entry '1504001010' for key 'stu_number'
+ [ SQL语句 ] : INSERT INTO `stu_student` (`stu_number`,`stu_name`,`stu_gender`,`class_id`) VALUES ('1504001010','小春','男','15')
+
+[ 2016-06-22T21:13:22+08:00 ] ::1 /test/index.php/Admin/Student/add/class_id/1
+ERR: 1062:Duplicate entry '1504005010' for key 'stu_number'
+ [ SQL语句 ] : INSERT INTO `stu_student` (`stu_number`,`stu_name`,`stu_gender`,`class_id`) VALUES ('1504005010','杨同学','女','13')
+
+[ 2016-06-22T21:19:28+08:00 ] ::1 /test/index.php/Admin/Student/add
+ERR: 1062:Duplicate entry '1503003003' for key 'stu_number'
+ [ SQL语句 ] : INSERT INTO `stu_student` (`stu_number`,`stu_name`,`stu_gender`,`class_id`) VALUES ('1503003003','凤凤','女','10')
+
+[ 2016-06-22T21:30:44+08:00 ] ::1 /test/index.php/Admin/Student/add
+ERR: 1062:Duplicate entry '1502001008' for key 'stu_number'
+ [ SQL语句 ] : INSERT INTO `stu_student` (`stu_number`,`stu_name`,`stu_gender`,`class_id`) VALUES ('1502001008','八哥','男','1')
+
+[ 2016-06-22T21:36:56+08:00 ] ::1 /test/index.php/Admin/Student/delete/student_id//class_id/
+ERR: 非法操作:delete
+
+[ 2016-06-22T22:27:00+08:00 ] ::1 /test/index.php/Admin/Student/update/student_id/
+ERR: 非法操作:update
+

@@ -1,0 +1,21 @@
+[ 2016-07-31T21:32:39+08:00 ] ::1 /test/index.php/Public/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2016-07-31T21:32:39+08:00 ] ::1 /test/index.php/Public/jquery.validate.js
+ERR: 无法加载控制器:Jquery.validate.js
+
+[ 2016-07-31T21:42:03+08:00 ] ::1 /test/Public/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2016-07-31T21:42:44+08:00 ] ::1 /test/Public/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2016-07-31T21:43:48+08:00 ] ::1 /test/Public/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2016-07-31T21:59:32+08:00 ] ::1 /test/Public/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2016-07-31T21:59:41+08:00 ] ::1 /test/Public/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
